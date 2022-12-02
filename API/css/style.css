@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ .box img{
+    height: 300px;
+    object-fit: contain;
+ 
+}
+#btn{
+    margin-bottom: 35px;
+}
+.price{
+    border: 1px solid yellow;
+    border-radius: 10px;
+    width: 50%;
+    text-align: center;
+}
